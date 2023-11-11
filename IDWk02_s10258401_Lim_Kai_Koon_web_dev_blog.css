@@ -1,0 +1,28 @@
+h1{
+    color:blueviolet;
+}
+h2{
+    color:red;
+}
+h3{
+    color:green;
+}
+h4{
+    color:rgb(252, 175, 8);
+}
+a:link { /* unvisited link */ color: red; }
+a:visited { /* visited link */ color: blue; }
+
+img{
+    width: 400px;
+}
+
+.responsive-img-max-fixed-width{
+    max-width: 100%;
+    width: 400px;
+    height: auto;
+}
+.responsive-img-cover{
+    background-image: url();
+    background-size: cover;
+}
